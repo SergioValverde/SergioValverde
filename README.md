@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 **Cloud Security & DevSecOps | AWS Security Labs | Detection Engineering**
 
-I build practical security labs focused on cloud defense, attack simulation, detection engineering, and secure-by-design infrastructure.
+I love learning !
 
 My current work focuses on:
 
