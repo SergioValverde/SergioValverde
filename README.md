@@ -26,8 +26,6 @@ My current work focuses on:
 * AWS security architecture
 * DevSecOps pipelines and security automation
 * Cloud threat detection and response
-* Web application protection with AWS WAF
-* Network inspection, DNS security, and telemetry analysis
 * GitHub security posture and software supply-chain security
 
 ## What I am building next
@@ -50,7 +48,7 @@ The goal is to produce a practical security scorecard and actionable remediation
 ## Technical areas
 
 **Cloud:** AWS, IAM, VPC, WAF, API Gateway, Lambda, RDS, Network Firewall, Route 53 Resolver, CloudWatch
-**Security:** DevSecOps, threat hunting, vulnerability management, secure SDLC, detection engineering
+**Security:** DevSecOps, threat hunting, vulnerability management, secure SDLC, detection engineering, Web Apps
 **Automation:** Python, Bash, GitHub Actions, security tooling
 **Research interests:** cloud attack paths, supply-chain security, CI/CD hardening, defensive security engineering
 
