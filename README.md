@@ -30,6 +30,12 @@ My current work focuses on:
 
 ## What I am building next
 
+### secure-software-delivery-lab
+
+Creating a secure software delivery lab from cero!
+Implementing tools, security gates ... 
+https://github.com/SergioValverde/secure-software-delivery-lab
+
 ### GitHub Security Posture Auditor
 
 A Python tool to analyze GitHub repositories and organizations for common security risks:
